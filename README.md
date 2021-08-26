@@ -1,8 +1,7 @@
 - 👋 Hi, I’m corinna-li
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
+- 👀 I’m interested in vue,quasar and javascript
+- 🌱 I’m currently learning vue,quasar and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 corinna-li/corinna-li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
